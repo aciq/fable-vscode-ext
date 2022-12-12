@@ -3,12 +3,13 @@
 opinionated F# vscode extension template
 
 by opinionated i mean:
-- removed paket (dont want unnecessary clutter)
-- removed fake (dont want unnecessary clutter)
-- removed yarn (dont want unnecessary clutter)
-- removed webpack (dont want unnecessary clutter)
+- removed paket 
+- removed fake
+- removed yarn 
+- removed webpack
 - updated launch.json
-- updated fable
+- updated fable version
+- added fable promise, node and jsonprovider packages by default
 
 
 ## setup
